@@ -22,9 +22,9 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## NestJS Zero to Hero - Task Management Application
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This application is a personal documentation of the [NestJS Zero to Hero course by Ariel Weinberger (Udemy)](https://www.udemy.com/course/nestjs-zero-to-hero).
 
 ## Installation
 
